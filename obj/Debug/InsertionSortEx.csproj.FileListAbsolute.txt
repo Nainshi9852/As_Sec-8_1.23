@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\InsertionSortEx\InsertionSortEx\bin\Debug\InsertionSortEx.exe.config
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\InsertionSortEx\InsertionSortEx\bin\Debug\InsertionSortEx.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\InsertionSortEx\InsertionSortEx\bin\Debug\InsertionSortEx.pdb
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\InsertionSortEx\InsertionSortEx\obj\Debug\InsertionSortEx.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\InsertionSortEx\InsertionSortEx\obj\Debug\InsertionSortEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\InsertionSortEx\InsertionSortEx\obj\Debug\InsertionSortEx.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\InsertionSortEx\InsertionSortEx\obj\Debug\InsertionSortEx.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\InsertionSortEx\InsertionSortEx\obj\Debug\InsertionSortEx.pdb
